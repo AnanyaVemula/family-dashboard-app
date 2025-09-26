@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163421341101",
+    "project_id": "familyapp-b1936",
+    "storage_bucket": "familyapp-b1936.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163421341101:android:fc042e71f45cb9a3610d24",
+        "android_client_info": {
+          "package_name": "com.example.vibe_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvZUugE9zswjs3ZqCD2VI_7tCTOJGF0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
