@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vibe_ai
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# family-dashboard-app
+A Flutter-based Family Dashboard app to manage family members
+>>>>>>> 831fb03ec551a117447862f8488b5537087be0a7
